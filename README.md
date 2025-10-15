@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power Bi
 
-![Data Jobs Dashboard Page 2](/images/Data%20Job%20Dashboard.png
+![Data Jobs Dashboard Page 1](/images/Data%20Job%20Dashboard.png
 )
 
 ## Introduction 
@@ -29,7 +29,7 @@ This dashboard was created for **Job seekers, Job Transitioners, and Job Swapper
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 2](/images/Data%20Job%20Dashboard.png
+![Data Jobs Dashboard Page 1](/images/Data%20Job%20Dashboard.png
 )
 
 
